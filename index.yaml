@@ -1,3 +1,13 @@
 apiVersion: v1
-entries: {}
-generated: "2021-01-19T22:41:44.36832Z"
+entries:
+  my-app:
+  - apiVersion: v2
+    created: "2021-01-19T22:55:08.045566Z"
+    description: A Helm chart for load-balancing app.
+    digest: bac0ba89984294abf170a384f35a8c004fbe85167607b423c575661a77eea5e9
+    name: my-app
+    type: application
+    urls:
+    - my-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-01-19T22:55:08.044903Z"
